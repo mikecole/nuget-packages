@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>highcharts.js</id>
-        <version>6.2.0.0</version>
+        <version>7.1.2.0</version>
         <title>Highcharts.js</title>
         <authors>Highsoft</authors>
         <owners>Mike Cole</owners>
